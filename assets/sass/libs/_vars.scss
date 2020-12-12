@@ -31,20 +31,20 @@
 	$palette: (
 		wrapper-bg:			#212931,
 
-		bg:					#ffffff,
+		bg:					#ffffff71,
 		fg:					#212931,
 		fg-bold:			#212931,
-		fg-light:			mix(#212931, #ffffff, 50%),
-		border:				mix(#dcdcdc, #ffffff, 50%),
+		fg-light:			mix(#212931, #ffffff71, 50%),
+		border:				mix(#dcdcdc, #ffffff71, 50%),
 		border-bg:			rgba(#dcdcdc, 0.25),
 		accent:				#18bfef,
 
 		alt: (
-			bg:				#f5f5f5,
+			bg:				#c5cccc,
 			fg:				#717981,
 			fg-bold:		#717981,
-			fg-light:		mix(#717981, #f5f5f5, 50%),
-			border:			mix(#dcdcdc, #f5f5f5, 75%),
+			fg-light:		mix(#717981, #c5cccc, 50%),
+			border:			mix(#dcdcdc, #c5cccc, 75%),
 			border-bg:		rgba(#dcdcdc, 0.5),
 			accent:			#18bfef,
 		),
@@ -52,11 +52,11 @@
 		invert: (
 			bg:				#1e252d,
 			bg-alt:			#1e252d,
-			fg:				#ffffff,
-			fg-bold:		#ffffff,
-			fg-light:		rgba(#ffffff, 0.5),
-			border:			#ffffff,
-			border-bg:		rgba(#ffffff,0.075),
+			fg:				#ffffff71,
+			fg-bold:		#ffffff71,
+			fg-light:		rgba(#ffffff71, 0.5),
+			border:			#ffffff71,
+			border-bg:		rgba(#ffffff71,0.075),
 			accent:			#18bfef,
 		),
 	);

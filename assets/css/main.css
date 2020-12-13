@@ -227,6 +227,11 @@ input, select, textarea {
 }
 /*Glict Text end */
 
+.about {
+	color: #f5d0b2;
+	font-weight: bold;
+}
+
 /* Type */
 
 	html {
